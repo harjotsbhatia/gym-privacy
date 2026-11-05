@@ -1,10 +1,10 @@
-# Gym Privacy Policy
+# DopaLift Privacy Policy
 
 Last updated: November 5, 2026
 
 ## Summary
 
-Gym has no accounts, ads, analytics or trackers. The developer doesn't collect your data and can't see your workouts. It isn't sold, or used for advertising.
+DopaLift has no accounts, ads, analytics or trackers. The developer doesn't collect your data and can't see your workouts. It isn't sold, or used for advertising.
 
 ## Your workouts
 
@@ -12,9 +12,9 @@ Workouts, plans, custom exercises and settings are stored on your device. They m
 
 ## Apple Health
 
-Connecting Apple Health is optional. If you connect it, Gym asks to read active energy, heart rate, steps and workouts. It uses active energy and workouts for your Home summary, and steps for step challenges. It doesn't currently use heart rate.
+Connecting Apple Health is optional. If you connect it, DopaLift asks to read active energy, heart rate, steps and workouts. It uses active energy and workouts for your Home summary, and steps for step challenges. It doesn't currently use heart rate.
 
-If you turn on sync, Gym saves completed workouts to Apple Health. You can change these permissions at any time in Settings → Health → Data Access.
+If you turn on sync, DopaLift saves completed workouts to Apple Health. You can change these permissions at any time in Settings → Health → Data Access.
 
 ## Friend Challenges
 
@@ -28,7 +28,7 @@ Exercise demo animations are loaded from cdn.fitsw.com, a third-party service. A
 
 ## Deleting your data
 
-Deleting the app removes its data from your device. Workouts already saved to Apple Health can be deleted in the Health app. To remove challenges you created, delete Gym's data from your iCloud storage in your device settings. Progress you shared in a challenge someone else created is stored in their iCloud, so contact the developer if you need help with it.
+Deleting the app removes its data from your device. Workouts already saved to Apple Health can be deleted in the Health app. To remove challenges you created, delete DopaLift's data from your iCloud storage in your device settings. Progress you shared in a challenge someone else created is stored in their iCloud, so contact the developer if you need help with it.
 
 ## Changes
 
