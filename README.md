@@ -12,19 +12,13 @@ Workouts, plans, custom exercises and settings are stored on your device. They m
 
 ## Apple Health
 
-Connecting Apple Health is optional. If you connect it, DopaLift asks to read active energy, heart rate, steps and workouts. It uses active energy and workouts for your Home summary, and steps for step challenges. It doesn't currently use heart rate.
+Connecting Apple Health is optional. If you connect it, DopaLift asks to read active energy and workouts, which it uses for your Home summary.
 
 If you turn on sync, DopaLift saves completed workouts to Apple Health. You can change these permissions at any time in Settings → Health → Data Access.
 
-## Friend Challenges
-
-Challenges are optional and use Apple's iCloud. When you create or join one, its title, dates and metric, your display name and your running total are stored in iCloud and shared with the other participant.
-
-That total is your workout count, weight lifted, streak or, for a step challenge, step count from Apple Health. Your individual workouts aren't shared. iCloud data is covered by [Apple's privacy policy](https://www.apple.com/legal/privacy/), and the developer can't read it.
-
 ## Deleting your data
 
-Deleting the app removes its data from your device. Workouts already saved to Apple Health can be deleted in the Health app. To remove challenges you created, delete DopaLift's data from your iCloud storage in your device settings. Progress you shared in a challenge someone else created is stored in their iCloud, so contact the developer if you need help with it.
+Deleting the app removes its data from your device. Workouts already saved to Apple Health can be deleted in the Health app.
 
 ## Changes
 
